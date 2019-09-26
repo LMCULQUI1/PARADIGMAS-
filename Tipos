@@ -1,10 +1,49 @@
-Paradigmas de la programación
+   PARADIGMAS DE PROGRAMACIÓN
+
 Un paradigma de programación es un estilo de desarrollo de programas. Es decir, un modelo para resolver problemas computacionales. 
 Los lenguajes de programación, necesariamente, se encuadran en uno o varios paradigmas a la vez a partir del tipo de órdenes que permiten implementar, 
 algo que tiene una relación directa con su sintaxis.
 
-Paradigma 1: Declarativo.- es un paradigma de programación que está basado en el desarrollo de programas especificando o "declarando" un conjunto de condiciones, 
-proposiciones, afirmaciones, restricciones, ecuaciones o transformaciones que describen el problema y detallan su solución. La solución es obtenida mediante mecanismos internos de control, 
-sin especificar exactamente cómo encontrarla (tan solo se le indica a la computadora qué es lo que se desea obtener o qué es lo que se está buscando). 
-No existen asignaciones destructivas, y las variables son utilizadas con transparencia referencial.
+Este indica 
+
+- Un método de realizar cómputos
+- La manera en que se deben estructurar y organizar las tareas que debe llevar a cabo un programa 
+
+    °Los paradigmas fundamentales están asociados a determinados modelos de cómputo.
+    °La división principal reside en el enfoque imperativo, la cual indica el cómo 
+     se debe calcular y el enfoque declarativo que indica el qué se debe calcular.
+
+Tipos de paradigmas: 
+
+1.- Declarativo.
+
+ Este está basado en el desarrollo de programas especificando o "declarando" un conjunto de
+    - condiciones
+    - proposiciones
+    - afirmaciones
+    - restricciones
+    - transformaciones que describen el problema y detallan su solución. 
+
+La solución es obtenida mediante mecanismos internos de control, sin especificar exactamente cómo encontrarla.
+
+2.- Imperativo
+
+ Los programas imperativos contienen instrucciones que dicen al ordenador cómo realizar una tarea. 
+- Los primeroslenguajes imperativos fueron los códigos máquina de los ordenadores, que utilizaban instrucciones sencillas y permitían implementar el hardware 
+fácilmente, pero no servían para desarrollar programas complejos.
+
+3.- Paradigma orientado a objetos
+
+Este expresa un programa como un conjunto de objetos, que colaboran entre ellos para realizar tareas. 
+Esto permite hacer los programas y módulos más fáciles de escribir, mantener, reutilizar y volver a utilizar. 
+
+Caracteristicas:
+     - encapsulamiento
+     - abstracción
+     - polimorfismo
+     - herencia.
+
+Muchos lenguajes utilizados en la actualidad están orientados a objetos como:Java, C++, Python o Delphi.
+
+
 
