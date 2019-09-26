@@ -1,1 +1,10 @@
+Paradigmas de la programación
+Un paradigma de programación es un estilo de desarrollo de programas. Es decir, un modelo para resolver problemas computacionales. 
+Los lenguajes de programación, necesariamente, se encuadran en uno o varios paradigmas a la vez a partir del tipo de órdenes que permiten implementar, 
+algo que tiene una relación directa con su sintaxis.
+
+Paradigma 1: Declarativo.- es un paradigma de programación que está basado en el desarrollo de programas especificando o "declarando" un conjunto de condiciones, 
+proposiciones, afirmaciones, restricciones, ecuaciones o transformaciones que describen el problema y detallan su solución. La solución es obtenida mediante mecanismos internos de control, 
+sin especificar exactamente cómo encontrarla (tan solo se le indica a la computadora qué es lo que se desea obtener o qué es lo que se está buscando). 
+No existen asignaciones destructivas, y las variables son utilizadas con transparencia referencial.
 
