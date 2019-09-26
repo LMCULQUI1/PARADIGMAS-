@@ -1,2 +1,2 @@
 # PARADIGMAS-
-Consulta acerca de los distintos paradigmas existentes en la programación
+Consulta acerca de los distintos paradigmas existente en la programacion 
