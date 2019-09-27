@@ -46,13 +46,33 @@ Muchos lenguajes utilizados en la actualidad están orientados a objetos como:Jav
 
 4.- Paradigma lógico
 
-A lo largo de la historia han existido muchos precursores de lo que se puede llamar como la lógica, uno de 
-ellos es Aristóteles el cual aporto con su teoría silogística locual avanzo a la lógica matemática y hoy en 
-día como la programación lógica.
 Un paradigma lógico es una forma de pensar para lidiar con problemas matemáticos la cual se fundamenta en 
 la lógica de primer orden, los conocimientos básicos en matemáticas se pueden representar mediante la lógica
 en forma de axiomas a los cuales se añaden teoremas los cuales son reglas formales para deducir cosas verdaderas.  
+Consiste en la aplicación del corpus de conocimiento sobre lógica para el diseño de lenguajes de programación; 
+no debe confundirse con la disciplina de la lógica computacional. 
+La programación lógica es un tipo de paradigmas de programación dentro del paradigma de programación declarativa.
 
+5.- Paradigma Funcional
+
+El objetivo del paradigma funcional es conseguir lenguajes expresivos y matemáticamente elegantes.
+La programación funcional define un programa como una función matemática que convierte unas entradas en unas salidas.
+Sus orígenes provienen del Cálculo Lambda (o ?-c?lculo), una teoría matemática elaborada por Alonso Church como apoyo a sus estudios sobre Computabilidad. 
+Un lenguaje funcional es, a grandes rasgos, un azúcar sintáctico del Cálculo Lambda.
+Características del paradigma funcional
+.-Programación declarativa
+.-Recursión
+.-Funciones como tipos de datos primitivos
+.-Están constituidos únicamente por definiciones de funciones.
+.-Ciertas propiedades como la transparencia referencial.
+Otras características propias de estos lenguajes son la no existencia de asignaciones de variables y la falta de construcciones estructuradas.
+El componente básico de los lenguajes funcionales es la noción de función y su estructura de control esencial la aplicación de una función. 
+Entre los lenguajes funcionales se encuentran : ISWIM, ML, LISP y todos sus derivados, como Scheme.
+Reducción funcional. Técnicas: recursividad, parámetros acumuladores, CPS, Mónadas.
+ Familia LISP (Common-Lisp, Scheme):
+- Basados en s-expresiones.
+- Tipado debil.
+- Meta-programación.
 
 
 
