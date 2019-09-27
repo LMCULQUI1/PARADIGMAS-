@@ -1,8 +1,8 @@
    PARADIGMAS DE PROGRAMACIÓN
 
-Un paradigma de programación es un estilo de desarrollo de programas. Es decir, un modelo para resolver problemas computacionales. 
-Los lenguajes de programación, necesariamente, se encuadran en uno o varios paradigmas a la vez a partir del tipo de órdenes que permiten implementar, 
-algo que tiene una relación directa con su sintaxis.
+Un paradigma de programación es un estilo de desarrollo de programas. Es decir, un modelo para resolver problemas
+computacionales. Los lenguajes de programación, necesariamente, se encuadran en uno o varios paradigmas a la vez 
+a partir del tipo de órdenes que permiten implementar, algo que tiene una relación directa con su sintaxis.
 
 Este indica 
 
@@ -26,11 +26,11 @@ Tipos de paradigmas:
 
 La solución es obtenida mediante mecanismos internos de control, sin especificar exactamente cómo encontrarla.
 
-2.- Imperativo
+2.- Imperativo
 
  Los programas imperativos contienen instrucciones que dicen al ordenador cómo realizar una tarea. 
-- Los primeroslenguajes imperativos fueron los códigos máquina de los ordenadores, que utilizaban instrucciones sencillas y permitían implementar el hardware 
-fácilmente, pero no servían para desarrollar programas complejos.
+- Los primeroslenguajes imperativos fueron los códigos máquina de los ordenadores, que utilizaban instrucciones 
+sencillas y permitían implementar el hardware fácilmente, pero no servían para desarrollar programas complejos.
 
 3.- Paradigma orientado a objetos
 
@@ -42,8 +42,18 @@ Caracteristicas:
      - abstracción
      - polimorfismo
      - herencia.
-
 Muchos lenguajes utilizados en la actualidad están orientados a objetos como:Java, C++, Python o Delphi.
+
+4.- Paradigma lógico
+
+A lo largo de la historia han existido muchos precursores de lo que se puede llamar como la lógica, uno de 
+ellos es Aristóteles el cual aporto con su teoría silogística locual avanzo a la lógica matemática y hoy en 
+día como la programación lógica.
+Un paradigma lógico es una forma de pensar para lidiar con problemas matemáticos la cual se fundamenta en 
+la lógica de primer orden, los conocimientos básicos en matemáticas se pueden representar mediante la lógica
+en forma de axiomas a los cuales se añaden teoremas los cuales son reglas formales para deducir cosas verdaderas.  
+
+
 
 
 
