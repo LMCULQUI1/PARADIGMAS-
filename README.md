@@ -1,13 +1,14 @@
-# PARADIGMAS-
+# PARADIGMAS
 Consulta acerca de los distintos paradigmas existente en la programacion 
 
-#teoria
-fundamentacion teorica para realizar diferentes tipos de programacion 
-#practica 
-ejercicios que realizamos en
+# teoria
+Fundamentacion teórica para realizar diferentes tipos de programación 
+# Práctica 
+Ejercicios que realizamos en :
 1. lenguaje C 
 2. Java
 3. fortra
-##
-# elementos encontrados en programacion orientada a objetos
+# #
+# Elementos encontrados en programación orientada a objetos
+*Objetos
 
